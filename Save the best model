@@ -1,0 +1,4 @@
+# Save the best model (e.g., XGBoost)
+joblib.dump(xgb, "house_price_model.pkl")
+
+print("Model saved successfully!")
