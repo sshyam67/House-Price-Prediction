@@ -29,7 +29,7 @@ Response:
    "prediction": [house_price]
 }
 
- License
+📜 License
 This project is licensed under the MIT License.
 
 🤝 Contributing
