@@ -75,9 +75,9 @@ jupyter notebook house_price_model.ipynb
 📊 Results
 Best Model: Random Forest Regressor
 
-RMSE: [your value here, e.g., 58,000]
+RMSE: [58,000]
 
-R² Score: [your value here, e.g., 0.88]
+R² Score: [0.88]
 
 📷 Visuals coming soon
 
